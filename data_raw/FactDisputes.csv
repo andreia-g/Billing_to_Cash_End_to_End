@@ -1,0 +1,441 @@
+DisputeID,InvoiceID,DisputeDate,DisputeReason,DisputeStatus
+1,746,2025-05-16,Contract Terms,Resolved
+2,315,2024-08-22,Pricing,Resolved
+3,4753,2025-11-04,Service Issue,Open
+4,2668,2024-10-20,Duplicate Invoice,Open
+5,283,2025-09-23,Pricing,Resolved
+6,839,2025-03-10,Service Issue,Resolved
+7,5437,2025-03-24,Pricing,Open
+8,4528,2025-06-03,Contract Terms,Open
+9,3408,2025-03-03,Service Issue,Resolved
+10,5277,2024-08-23,Service Issue,Resolved
+11,4131,2025-04-10,Contract Terms,Resolved
+12,310,2025-01-14,Pricing,Resolved
+13,4442,2024-12-02,Service Issue,Open
+14,2675,2025-11-24,Pricing,Resolved
+15,5007,2025-04-16,Service Issue,Resolved
+16,1345,2026-01-21,Pricing,Open
+17,2807,2025-04-12,Contract Terms,Resolved
+18,1685,2025-06-18,Pricing,Resolved
+19,2035,2025-05-02,Duplicate Invoice,Open
+20,1235,2025-11-04,Service Issue,Open
+21,3923,2024-04-12,Pricing,Open
+22,5084,2024-11-07,Contract Terms,Open
+23,2202,2024-02-25,Pricing,Resolved
+24,1072,2025-10-06,Contract Terms,Resolved
+25,1982,2024-07-15,Contract Terms,Resolved
+26,1034,2024-12-27,Pricing,Open
+27,1253,2024-02-12,Contract Terms,Open
+28,2647,2025-10-19,Pricing,Open
+29,934,2024-10-24,Duplicate Invoice,Open
+30,2949,2024-06-09,Duplicate Invoice,Resolved
+31,1683,2026-01-18,Service Issue,Open
+32,496,2024-11-09,Contract Terms,Resolved
+33,4307,2024-11-16,Service Issue,Open
+34,2240,2024-12-04,Service Issue,Resolved
+35,5392,2025-01-27,Pricing,Open
+36,1211,2024-10-08,Duplicate Invoice,Resolved
+37,759,2024-11-14,Contract Terms,Resolved
+38,1225,2025-08-27,Duplicate Invoice,Open
+39,4923,2024-02-24,Pricing,Resolved
+40,2906,2025-05-17,Service Issue,Open
+41,118,2025-10-20,Duplicate Invoice,Resolved
+42,1474,2025-07-29,Duplicate Invoice,Open
+43,5162,2024-11-22,Service Issue,Resolved
+44,3261,2024-10-18,Pricing,Resolved
+45,4132,2024-10-01,Duplicate Invoice,Resolved
+46,5478,2025-12-18,Service Issue,Open
+47,4800,2024-10-23,Contract Terms,Resolved
+48,3907,2025-12-24,Pricing,Resolved
+49,595,2025-01-22,Contract Terms,Open
+50,5067,2024-07-06,Contract Terms,Open
+51,120,2024-07-13,Service Issue,Resolved
+52,4558,2025-10-30,Contract Terms,Open
+53,2262,2025-09-24,Duplicate Invoice,Open
+54,5039,2025-09-24,Contract Terms,Open
+55,516,2024-02-26,Duplicate Invoice,Open
+56,2446,2024-02-24,Contract Terms,Open
+57,372,2025-11-11,Service Issue,Resolved
+58,5446,2025-08-18,Pricing,Open
+59,4043,2025-07-01,Duplicate Invoice,Resolved
+60,5335,2024-09-02,Contract Terms,Open
+61,1251,2024-04-06,Pricing,Resolved
+62,4157,2024-09-10,Service Issue,Resolved
+63,1794,2025-02-13,Pricing,Resolved
+64,16,2025-01-29,Contract Terms,Resolved
+65,3601,2025-07-11,Duplicate Invoice,Resolved
+66,62,2025-08-23,Pricing,Open
+67,3004,2025-10-18,Service Issue,Resolved
+68,4296,2024-02-07,Duplicate Invoice,Open
+69,124,2024-08-27,Service Issue,Resolved
+70,5383,2025-01-03,Pricing,Open
+71,5338,2025-05-06,Pricing,Open
+72,558,2026-01-19,Service Issue,Resolved
+73,1488,2025-12-11,Contract Terms,Resolved
+74,968,2024-10-20,Duplicate Invoice,Resolved
+75,4389,2024-04-19,Service Issue,Resolved
+76,4107,2024-11-01,Contract Terms,Open
+77,2967,2024-10-28,Pricing,Open
+78,4255,2024-09-09,Service Issue,Open
+79,490,2025-05-07,Pricing,Open
+80,3560,2025-05-10,Contract Terms,Resolved
+81,1338,2024-06-15,Service Issue,Resolved
+82,1669,2024-04-09,Pricing,Resolved
+83,3179,2024-11-08,Duplicate Invoice,Resolved
+84,136,2025-02-27,Contract Terms,Resolved
+85,1656,2024-04-09,Duplicate Invoice,Open
+86,3423,2025-02-10,Contract Terms,Open
+87,2308,2025-08-29,Contract Terms,Open
+88,2846,2025-04-06,Duplicate Invoice,Resolved
+89,827,2025-04-18,Pricing,Resolved
+90,2371,2024-11-01,Service Issue,Resolved
+91,3402,2025-12-18,Duplicate Invoice,Open
+92,5217,2025-07-11,Service Issue,Open
+93,1850,2024-12-04,Pricing,Open
+94,337,2024-07-30,Contract Terms,Open
+95,3922,2024-11-14,Duplicate Invoice,Open
+96,5358,2025-05-22,Pricing,Open
+97,4746,2024-03-05,Contract Terms,Resolved
+98,5310,2024-05-14,Duplicate Invoice,Open
+99,1860,2025-01-13,Contract Terms,Open
+100,2003,2026-01-06,Pricing,Open
+101,3875,2025-06-01,Duplicate Invoice,Open
+102,1305,2024-12-17,Contract Terms,Resolved
+103,4794,2024-10-26,Contract Terms,Resolved
+104,875,2024-04-28,Contract Terms,Resolved
+105,1304,2024-10-13,Duplicate Invoice,Open
+106,3193,2025-01-14,Contract Terms,Open
+107,3164,2025-09-20,Duplicate Invoice,Resolved
+108,4698,2024-03-23,Contract Terms,Resolved
+109,409,2025-04-02,Contract Terms,Open
+110,520,2026-01-13,Contract Terms,Open
+111,2806,2025-02-13,Contract Terms,Resolved
+112,1630,2024-12-30,Pricing,Open
+113,2154,2024-03-30,Service Issue,Resolved
+114,4590,2025-09-26,Pricing,Open
+115,1011,2025-08-15,Pricing,Resolved
+116,4298,2024-03-20,Duplicate Invoice,Open
+117,2392,2025-10-06,Duplicate Invoice,Open
+118,2679,2024-01-28,Contract Terms,Resolved
+119,23,2025-05-15,Duplicate Invoice,Open
+120,2467,2025-05-21,Duplicate Invoice,Open
+121,5498,2025-12-11,Pricing,Resolved
+122,2378,2025-10-19,Duplicate Invoice,Open
+123,2300,2025-05-15,Pricing,Open
+124,2317,2024-09-12,Contract Terms,Open
+125,2795,2025-03-15,Pricing,Resolved
+126,5068,2025-09-02,Contract Terms,Resolved
+127,4367,2024-10-16,Duplicate Invoice,Open
+128,3626,2025-03-23,Service Issue,Resolved
+129,1496,2024-05-06,Pricing,Open
+130,4227,2024-09-09,Contract Terms,Resolved
+131,5344,2025-03-25,Contract Terms,Resolved
+132,2196,2024-02-25,Service Issue,Open
+133,379,2025-04-12,Service Issue,Open
+134,5476,2025-12-16,Pricing,Open
+135,4223,2024-12-21,Pricing,Resolved
+136,3124,2024-03-30,Duplicate Invoice,Resolved
+137,1162,2024-01-12,Pricing,Open
+138,2759,2024-06-07,Duplicate Invoice,Open
+139,3370,2025-12-28,Service Issue,Open
+140,4396,2025-11-16,Contract Terms,Resolved
+141,464,2025-01-04,Service Issue,Open
+142,2508,2024-08-23,Service Issue,Open
+143,4348,2024-12-14,Duplicate Invoice,Open
+144,2976,2025-03-17,Pricing,Resolved
+145,1279,2025-09-12,Contract Terms,Resolved
+146,4390,2024-05-12,Pricing,Resolved
+147,1623,2025-08-13,Contract Terms,Open
+148,3990,2025-05-01,Pricing,Open
+149,3215,2025-11-22,Pricing,Open
+150,1733,2024-10-19,Contract Terms,Open
+151,2922,2024-09-30,Duplicate Invoice,Resolved
+152,370,2024-07-03,Duplicate Invoice,Open
+153,1535,2024-05-11,Contract Terms,Resolved
+154,3764,2024-12-11,Contract Terms,Open
+155,2293,2024-04-22,Contract Terms,Open
+156,2323,2025-07-02,Service Issue,Open
+157,2093,2025-10-26,Duplicate Invoice,Resolved
+158,3381,2024-08-10,Contract Terms,Open
+159,1440,2024-08-26,Service Issue,Open
+160,3206,2025-07-17,Duplicate Invoice,Resolved
+161,5482,2025-04-13,Service Issue,Resolved
+162,1703,2024-11-08,Service Issue,Open
+163,3918,2025-06-04,Duplicate Invoice,Open
+164,1878,2025-10-30,Contract Terms,Open
+165,1121,2024-05-21,Service Issue,Open
+166,3383,2024-03-23,Pricing,Open
+167,3541,2025-12-19,Duplicate Invoice,Open
+168,5092,2025-06-04,Pricing,Open
+169,4594,2024-08-29,Contract Terms,Resolved
+170,2402,2024-05-14,Service Issue,Open
+171,2565,2024-03-16,Service Issue,Resolved
+172,4065,2024-05-22,Contract Terms,Open
+173,1886,2024-04-14,Duplicate Invoice,Open
+174,5361,2025-10-10,Duplicate Invoice,Resolved
+175,817,2024-02-26,Service Issue,Open
+176,4191,2025-10-25,Duplicate Invoice,Resolved
+177,2299,2024-02-08,Pricing,Open
+178,2909,2024-12-22,Contract Terms,Resolved
+179,698,2024-09-29,Pricing,Resolved
+180,5188,2024-09-20,Contract Terms,Resolved
+181,546,2025-07-20,Duplicate Invoice,Resolved
+182,3431,2024-03-08,Duplicate Invoice,Open
+183,4200,2024-03-26,Contract Terms,Resolved
+184,54,2025-11-19,Service Issue,Resolved
+185,2696,2024-11-01,Pricing,Open
+186,1176,2024-06-18,Contract Terms,Open
+187,5373,2024-12-03,Service Issue,Resolved
+188,2289,2025-02-01,Duplicate Invoice,Resolved
+189,3897,2024-08-31,Service Issue,Resolved
+190,3010,2025-12-22,Duplicate Invoice,Open
+191,5172,2024-11-16,Pricing,Resolved
+192,1931,2024-10-03,Service Issue,Resolved
+193,3184,2025-12-01,Service Issue,Open
+194,4256,2025-09-22,Contract Terms,Open
+195,1523,2025-05-28,Service Issue,Open
+196,84,2025-08-15,Service Issue,Resolved
+197,4480,2026-01-20,Duplicate Invoice,Open
+198,792,2025-01-11,Contract Terms,Resolved
+199,2209,2025-03-28,Duplicate Invoice,Open
+200,2660,2025-12-30,Service Issue,Resolved
+201,4767,2025-04-18,Duplicate Invoice,Resolved
+202,2051,2025-12-31,Duplicate Invoice,Open
+203,5122,2025-09-19,Contract Terms,Resolved
+204,3478,2024-07-09,Duplicate Invoice,Resolved
+205,1673,2024-02-29,Pricing,Resolved
+206,1882,2024-12-16,Contract Terms,Open
+207,2561,2025-12-23,Duplicate Invoice,Open
+208,1241,2025-07-28,Duplicate Invoice,Open
+209,1495,2025-10-22,Duplicate Invoice,Resolved
+210,4401,2024-11-29,Contract Terms,Open
+211,99,2025-10-24,Contract Terms,Open
+212,1391,2024-01-27,Pricing,Resolved
+213,983,2024-07-16,Service Issue,Open
+214,65,2025-07-16,Service Issue,Resolved
+215,1619,2025-09-14,Contract Terms,Resolved
+216,992,2024-12-27,Contract Terms,Open
+217,4865,2024-05-20,Duplicate Invoice,Open
+218,813,2025-12-13,Pricing,Resolved
+219,3807,2024-01-12,Duplicate Invoice,Open
+220,5151,2025-09-09,Duplicate Invoice,Open
+221,1254,2025-10-11,Contract Terms,Resolved
+222,3591,2024-07-30,Contract Terms,Resolved
+223,2140,2024-12-08,Service Issue,Open
+224,4135,2024-09-07,Duplicate Invoice,Resolved
+225,594,2024-02-07,Service Issue,Open
+226,3673,2024-09-03,Duplicate Invoice,Open
+227,4265,2025-02-16,Service Issue,Resolved
+228,4284,2024-06-14,Pricing,Resolved
+229,4790,2024-10-24,Pricing,Open
+230,2383,2024-08-30,Duplicate Invoice,Resolved
+231,4633,2024-04-30,Service Issue,Open
+232,3929,2024-12-26,Pricing,Resolved
+233,1331,2025-03-18,Pricing,Resolved
+234,3853,2025-01-07,Duplicate Invoice,Open
+235,2781,2024-08-07,Contract Terms,Resolved
+236,184,2024-12-11,Contract Terms,Resolved
+237,2585,2024-04-07,Service Issue,Resolved
+238,1840,2025-03-11,Contract Terms,Open
+239,2988,2025-06-14,Duplicate Invoice,Open
+240,264,2025-06-07,Duplicate Invoice,Resolved
+241,3729,2026-01-12,Service Issue,Resolved
+242,299,2024-04-29,Duplicate Invoice,Resolved
+243,1159,2024-02-10,Duplicate Invoice,Resolved
+244,4834,2025-02-21,Pricing,Resolved
+245,5237,2025-12-19,Contract Terms,Resolved
+246,1612,2026-01-25,Service Issue,Resolved
+247,4567,2024-11-23,Pricing,Open
+248,2667,2024-02-05,Service Issue,Open
+249,4103,2026-01-07,Contract Terms,Resolved
+250,1327,2025-05-02,Pricing,Resolved
+251,5231,2025-05-18,Pricing,Open
+252,4514,2024-07-29,Contract Terms,Resolved
+253,192,2024-11-24,Pricing,Resolved
+254,1005,2024-06-16,Contract Terms,Open
+255,3645,2025-10-01,Duplicate Invoice,Open
+256,1787,2024-09-06,Contract Terms,Resolved
+257,4040,2024-10-27,Pricing,Resolved
+258,5288,2025-06-12,Service Issue,Resolved
+259,411,2025-10-01,Service Issue,Resolved
+260,4717,2024-04-03,Pricing,Open
+261,3326,2025-06-03,Duplicate Invoice,Resolved
+262,2600,2024-03-07,Service Issue,Open
+263,3054,2025-03-22,Duplicate Invoice,Open
+264,3009,2026-01-15,Contract Terms,Open
+265,3443,2025-07-01,Contract Terms,Resolved
+266,5157,2024-02-01,Pricing,Resolved
+267,5339,2024-04-22,Duplicate Invoice,Open
+268,4683,2025-05-10,Contract Terms,Resolved
+269,2945,2025-10-30,Service Issue,Resolved
+270,5208,2025-04-30,Pricing,Resolved
+271,5137,2025-02-09,Contract Terms,Resolved
+272,2574,2024-11-24,Pricing,Resolved
+273,935,2025-11-20,Contract Terms,Resolved
+274,3321,2025-05-26,Service Issue,Open
+275,2023,2024-05-16,Duplicate Invoice,Resolved
+276,4003,2024-06-20,Contract Terms,Resolved
+277,5463,2025-10-23,Duplicate Invoice,Open
+278,3873,2024-10-04,Service Issue,Resolved
+279,2084,2024-02-17,Duplicate Invoice,Open
+280,3279,2024-08-15,Pricing,Resolved
+281,3185,2024-09-23,Service Issue,Resolved
+282,841,2024-10-26,Contract Terms,Resolved
+283,2969,2024-02-29,Service Issue,Resolved
+284,5072,2024-10-14,Pricing,Open
+285,1413,2025-04-17,Contract Terms,Resolved
+286,1187,2024-05-01,Contract Terms,Open
+287,1567,2024-10-03,Contract Terms,Open
+288,865,2024-05-23,Service Issue,Open
+289,3552,2025-06-10,Pricing,Open
+290,2000,2025-07-21,Service Issue,Open
+291,541,2025-01-12,Duplicate Invoice,Resolved
+292,2975,2024-12-21,Contract Terms,Resolved
+293,3726,2025-08-22,Contract Terms,Open
+294,2047,2024-12-27,Pricing,Open
+295,567,2025-05-03,Service Issue,Resolved
+296,3670,2025-06-12,Pricing,Open
+297,864,2024-03-12,Duplicate Invoice,Resolved
+298,5327,2024-10-23,Duplicate Invoice,Open
+299,1399,2024-07-17,Pricing,Open
+300,346,2024-09-05,Duplicate Invoice,Resolved
+301,1542,2024-10-14,Contract Terms,Open
+302,4369,2025-07-27,Pricing,Open
+303,1911,2025-10-17,Pricing,Resolved
+304,1545,2025-12-28,Contract Terms,Open
+305,3250,2025-12-14,Service Issue,Open
+306,1292,2024-07-13,Duplicate Invoice,Resolved
+307,4083,2024-11-20,Contract Terms,Open
+308,2558,2026-01-27,Contract Terms,Open
+309,134,2024-08-23,Pricing,Resolved
+310,1634,2024-07-24,Service Issue,Open
+311,4208,2025-10-04,Contract Terms,Open
+312,1738,2025-02-03,Contract Terms,Open
+313,510,2025-04-26,Contract Terms,Resolved
+314,2706,2024-07-19,Contract Terms,Resolved
+315,1744,2025-01-16,Duplicate Invoice,Resolved
+316,3180,2024-03-22,Duplicate Invoice,Resolved
+317,987,2024-03-29,Pricing,Open
+318,2457,2025-09-15,Duplicate Invoice,Open
+319,1213,2026-01-22,Duplicate Invoice,Resolved
+320,5184,2025-03-30,Service Issue,Resolved
+321,3183,2025-11-30,Contract Terms,Resolved
+322,5252,2025-09-24,Contract Terms,Open
+323,4140,2025-04-03,Duplicate Invoice,Resolved
+324,2681,2024-03-25,Pricing,Resolved
+325,591,2024-06-05,Duplicate Invoice,Open
+326,3017,2025-10-23,Service Issue,Open
+327,574,2024-07-27,Service Issue,Resolved
+328,113,2024-09-14,Service Issue,Resolved
+329,4693,2025-05-18,Pricing,Open
+330,2426,2025-10-30,Pricing,Resolved
+331,4943,2024-09-28,Service Issue,Open
+332,2016,2024-09-29,Service Issue,Resolved
+333,902,2025-04-17,Pricing,Resolved
+334,4382,2024-10-10,Duplicate Invoice,Open
+335,3514,2025-05-20,Pricing,Resolved
+336,1981,2024-07-14,Pricing,Open
+337,5140,2025-11-18,Pricing,Open
+338,166,2024-02-06,Contract Terms,Open
+339,3228,2025-02-08,Duplicate Invoice,Open
+340,4149,2025-02-15,Contract Terms,Resolved
+341,4166,2024-12-13,Pricing,Open
+342,1029,2025-09-20,Service Issue,Open
+343,2897,2026-01-21,Pricing,Open
+344,2459,2025-02-08,Service Issue,Open
+345,3400,2024-10-17,Pricing,Resolved
+346,5431,2025-12-16,Service Issue,Open
+347,3274,2024-06-01,Duplicate Invoice,Open
+348,282,2024-07-03,Contract Terms,Open
+349,2546,2025-12-07,Service Issue,Open
+350,4544,2025-10-08,Contract Terms,Resolved
+351,3859,2025-07-28,Service Issue,Resolved
+352,2144,2024-12-30,Duplicate Invoice,Open
+353,3055,2025-11-07,Service Issue,Open
+354,2772,2025-05-31,Pricing,Resolved
+355,4940,2024-04-29,Service Issue,Resolved
+356,4502,2025-04-05,Pricing,Open
+357,2746,2024-02-09,Pricing,Open
+358,3854,2025-03-21,Duplicate Invoice,Open
+359,3890,2024-12-17,Duplicate Invoice,Open
+360,3068,2025-09-10,Service Issue,Resolved
+361,2690,2024-10-03,Pricing,Resolved
+362,5470,2024-12-26,Contract Terms,Open
+363,2972,2025-08-02,Duplicate Invoice,Resolved
+364,1135,2025-07-13,Duplicate Invoice,Resolved
+365,781,2025-10-26,Service Issue,Open
+366,3014,2024-12-29,Contract Terms,Open
+367,4965,2024-02-20,Pricing,Open
+368,4571,2025-10-07,Service Issue,Resolved
+369,4681,2025-12-07,Contract Terms,Resolved
+370,3665,2025-11-03,Pricing,Resolved
+371,2671,2024-12-10,Duplicate Invoice,Resolved
+372,5196,2024-05-03,Contract Terms,Open
+373,2520,2025-08-13,Pricing,Resolved
+374,2533,2025-06-25,Duplicate Invoice,Open
+375,2513,2024-04-23,Pricing,Resolved
+376,1218,2024-05-03,Pricing,Resolved
+377,217,2025-07-24,Service Issue,Resolved
+378,5371,2024-03-13,Duplicate Invoice,Resolved
+379,46,2026-01-15,Duplicate Invoice,Open
+380,4181,2024-08-06,Contract Terms,Open
+381,3612,2024-06-02,Pricing,Open
+382,4209,2025-02-09,Service Issue,Resolved
+383,4721,2025-05-25,Duplicate Invoice,Resolved
+384,2407,2025-07-27,Duplicate Invoice,Open
+385,3649,2024-10-05,Duplicate Invoice,Open
+386,1525,2024-02-24,Pricing,Resolved
+387,1763,2025-10-31,Pricing,Open
+388,738,2025-11-26,Contract Terms,Open
+389,3675,2024-03-07,Duplicate Invoice,Resolved
+390,2990,2024-12-08,Service Issue,Open
+391,2385,2025-06-06,Service Issue,Open
+392,4448,2024-05-25,Contract Terms,Resolved
+393,4133,2024-03-31,Service Issue,Open
+394,2662,2025-08-26,Service Issue,Resolved
+395,988,2025-02-22,Duplicate Invoice,Open
+396,636,2025-07-08,Pricing,Open
+397,30,2025-03-18,Service Issue,Open
+398,3986,2025-04-11,Pricing,Open
+399,1857,2024-08-07,Pricing,Open
+400,2996,2024-02-15,Service Issue,Resolved
+401,3457,2024-09-03,Duplicate Invoice,Open
+402,4494,2025-09-19,Duplicate Invoice,Resolved
+403,3247,2024-11-17,Duplicate Invoice,Open
+404,4139,2025-05-20,Service Issue,Resolved
+405,3970,2025-10-09,Contract Terms,Resolved
+406,842,2025-05-03,Service Issue,Open
+407,3838,2024-01-24,Contract Terms,Resolved
+408,1258,2024-02-05,Service Issue,Open
+409,604,2024-01-15,Service Issue,Open
+410,5451,2024-10-07,Service Issue,Resolved
+411,607,2024-09-25,Pricing,Resolved
+412,2257,2024-05-11,Service Issue,Resolved
+413,2214,2025-06-13,Duplicate Invoice,Resolved
+414,173,2025-06-05,Contract Terms,Resolved
+415,4988,2025-06-12,Service Issue,Open
+416,3789,2025-09-17,Pricing,Open
+417,1000,2025-09-24,Pricing,Resolved
+418,3776,2024-10-13,Duplicate Invoice,Resolved
+419,61,2024-04-08,Contract Terms,Resolved
+420,5003,2024-11-26,Contract Terms,Open
+421,4499,2024-09-27,Duplicate Invoice,Open
+422,5479,2025-08-18,Contract Terms,Open
+423,3600,2026-01-05,Service Issue,Resolved
+424,3758,2025-12-13,Duplicate Invoice,Open
+425,1714,2024-10-29,Contract Terms,Open
+426,223,2024-05-02,Service Issue,Resolved
+427,635,2025-05-01,Pricing,Resolved
+428,1838,2025-02-27,Duplicate Invoice,Open
+429,2782,2024-07-09,Pricing,Resolved
+430,3573,2025-02-15,Contract Terms,Open
+431,500,2025-02-22,Pricing,Open
+432,891,2025-09-02,Service Issue,Open
+433,3803,2024-12-16,Service Issue,Resolved
+434,950,2025-06-14,Duplicate Invoice,Open
+435,5436,2024-08-15,Pricing,Resolved
+436,565,2024-02-19,Pricing,Open
+437,2506,2024-05-09,Service Issue,Open
+438,2645,2024-03-17,Contract Terms,Open
+439,3481,2025-03-22,Service Issue,Resolved
+440,2413,2024-07-16,Service Issue,Resolved

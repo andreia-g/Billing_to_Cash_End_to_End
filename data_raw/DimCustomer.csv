@@ -1,0 +1,121 @@
+CustomerID,CustomerName,CustomerSize,Industry,Country
+1,Customer 001,Small Business,Logistics,DE
+2,Customer 002,Mid-Market,Logistics,UK
+3,Customer 003,Small Business,Healthcare,DE
+4,Customer 004,Enterprise,Finance,DE
+5,Customer 005,Small Business,Tech,FR
+6,Customer 006,Enterprise,Tech,FR
+7,Customer 007,Small Business,Finance,UK
+8,Customer 008,Mid-Market,Finance,US
+9,Customer 009,Small Business,Healthcare,UK
+10,Customer 010,Small Business,Finance,DE
+11,Customer 011,Small Business,Finance,US
+12,Customer 012,Small Business,Healthcare,RO
+13,Customer 013,Small Business,Tech,FR
+14,Customer 014,Enterprise,Tech,UK
+15,Customer 015,Small Business,Logistics,UK
+16,Customer 016,Mid-Market,Finance,FR
+17,Customer 017,Small Business,Healthcare,US
+18,Customer 018,Small Business,Finance,UK
+19,Customer 019,Small Business,Tech,FR
+20,Customer 020,Small Business,Tech,UK
+21,Customer 021,Small Business,Tech,FR
+22,Customer 022,Mid-Market,Finance,US
+23,Customer 023,Enterprise,Logistics,RO
+24,Customer 024,Small Business,Logistics,UK
+25,Customer 025,Enterprise,Finance,FR
+26,Customer 026,Small Business,Logistics,RO
+27,Customer 027,Small Business,Retail,US
+28,Customer 028,Small Business,Healthcare,DE
+29,Customer 029,Mid-Market,Healthcare,DE
+30,Customer 030,Mid-Market,Logistics,UK
+31,Customer 031,Small Business,Retail,FR
+32,Customer 032,Enterprise,Finance,UK
+33,Customer 033,Small Business,Logistics,DE
+34,Customer 034,Mid-Market,Healthcare,DE
+35,Customer 035,Small Business,Logistics,DE
+36,Customer 036,Mid-Market,Tech,DE
+37,Customer 037,Mid-Market,Tech,UK
+38,Customer 038,Small Business,Healthcare,US
+39,Customer 039,Small Business,Finance,RO
+40,Customer 040,Small Business,Logistics,DE
+41,Customer 041,Small Business,Logistics,DE
+42,Customer 042,Mid-Market,Finance,UK
+43,Customer 043,Mid-Market,Retail,RO
+44,Customer 044,Enterprise,Finance,FR
+45,Customer 045,Small Business,Healthcare,UK
+46,Customer 046,Small Business,Retail,US
+47,Customer 047,Small Business,Healthcare,US
+48,Customer 048,Enterprise,Retail,DE
+49,Customer 049,Small Business,Healthcare,US
+50,Customer 050,Small Business,Retail,DE
+51,Customer 051,Small Business,Healthcare,US
+52,Customer 052,Small Business,Retail,UK
+53,Customer 053,Enterprise,Tech,DE
+54,Customer 054,Small Business,Retail,US
+55,Customer 055,Small Business,Tech,UK
+56,Customer 056,Small Business,Logistics,US
+57,Customer 057,Mid-Market,Tech,RO
+58,Customer 058,Small Business,Finance,DE
+59,Customer 059,Small Business,Retail,RO
+60,Customer 060,Mid-Market,Healthcare,US
+61,Customer 061,Small Business,Healthcare,RO
+62,Customer 062,Enterprise,Finance,DE
+63,Customer 063,Small Business,Tech,DE
+64,Customer 064,Enterprise,Finance,FR
+65,Customer 065,Enterprise,Tech,US
+66,Customer 066,Mid-Market,Retail,US
+67,Customer 067,Small Business,Tech,DE
+68,Customer 068,Small Business,Tech,US
+69,Customer 069,Mid-Market,Retail,UK
+70,Customer 070,Enterprise,Finance,RO
+71,Customer 071,Enterprise,Healthcare,US
+72,Customer 072,Small Business,Healthcare,DE
+73,Customer 073,Enterprise,Retail,FR
+74,Customer 074,Small Business,Finance,FR
+75,Customer 075,Mid-Market,Retail,DE
+76,Customer 076,Enterprise,Tech,UK
+77,Customer 077,Small Business,Healthcare,RO
+78,Customer 078,Small Business,Retail,FR
+79,Customer 079,Small Business,Logistics,FR
+80,Customer 080,Small Business,Healthcare,US
+81,Customer 081,Small Business,Finance,DE
+82,Customer 082,Small Business,Logistics,DE
+83,Customer 083,Enterprise,Healthcare,DE
+84,Customer 084,Mid-Market,Retail,FR
+85,Customer 085,Mid-Market,Retail,RO
+86,Customer 086,Small Business,Healthcare,FR
+87,Customer 087,Small Business,Retail,US
+88,Customer 088,Enterprise,Logistics,RO
+89,Customer 089,Enterprise,Finance,US
+90,Customer 090,Enterprise,Logistics,US
+91,Customer 091,Mid-Market,Healthcare,FR
+92,Customer 092,Enterprise,Logistics,RO
+93,Customer 093,Small Business,Retail,DE
+94,Customer 094,Small Business,Retail,UK
+95,Customer 095,Enterprise,Tech,DE
+96,Customer 096,Mid-Market,Tech,UK
+97,Customer 097,Small Business,Tech,UK
+98,Customer 098,Small Business,Retail,US
+99,Customer 099,Mid-Market,Logistics,UK
+100,Customer 100,Enterprise,Healthcare,UK
+101,Customer 101,Enterprise,Logistics,FR
+102,Customer 102,Mid-Market,Retail,FR
+103,Customer 103,Mid-Market,Retail,FR
+104,Customer 104,Enterprise,Finance,UK
+105,Customer 105,Small Business,Healthcare,US
+106,Customer 106,Small Business,Logistics,UK
+107,Customer 107,Enterprise,Retail,FR
+108,Customer 108,Small Business,Healthcare,FR
+109,Customer 109,Small Business,Logistics,FR
+110,Customer 110,Small Business,Logistics,FR
+111,Customer 111,Enterprise,Finance,DE
+112,Customer 112,Mid-Market,Finance,RO
+113,Customer 113,Enterprise,Tech,DE
+114,Customer 114,Mid-Market,Healthcare,FR
+115,Customer 115,Mid-Market,Tech,RO
+116,Customer 116,Small Business,Retail,FR
+117,Customer 117,Small Business,Tech,UK
+118,Customer 118,Small Business,Tech,US
+119,Customer 119,Mid-Market,Logistics,US
+120,Customer 120,Enterprise,Logistics,RO
